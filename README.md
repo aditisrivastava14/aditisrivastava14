@@ -11,7 +11,7 @@ Nice meeting you, I'm **Aditi!**
 🔭 I’m currently working on **Data Analytics and Engineering projects**  
 💬 Ask me about **SQL, Python, Tableau, Excel, Data Analysis, or Tech projects**  
 😄 Pronouns: She/Her  
-⚡ Fun fact: If I am not studying or coding, I’m probably **at the gym or creating content**
+⚡ Fun fact: If I am not studying or coding, I’m probably **at the gym**
 
 ---
 
