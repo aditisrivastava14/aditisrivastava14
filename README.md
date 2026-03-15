@@ -4,13 +4,12 @@ Hi there 👋
 
 Nice meeting you, I'm **Aditi!**
 
-🎓 Information Science Engineering Student  
-📊 Aspiring Data Analyst  
+🎓 Information Science & Engineering Student  
+📊 Data Analyst  
 💻 Interested in Data, Business, and Technology  
 
-🔭 I’m currently working on **Data Analytics and Web projects**  
-💬 Ask me about **SQL, Tableau, Data Analysis, or Tech projects**  
-📫 How to reach me: **LinkedIn - your-link | Email - your-email**  
+🔭 I’m currently working on **Data Analytics and Engineering projects**  
+💬 Ask me about **SQL, Python, Tableau, Excel, Data Analysis, or Tech projects**  
 😄 Pronouns: She/Her  
 ⚡ Fun fact: If I am not studying or coding, I’m probably **at the gym or creating content**
 
