@@ -22,11 +22,7 @@ Nice meeting you, I'm **Aditi!**
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditisrivastava202@gmail.com)
 
 
----
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 
 <!--
