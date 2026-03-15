@@ -1,4 +1,34 @@
-## Hi there 👋
+# 💫 About Me
+
+Hi there 👋
+
+Nice meeting you, I'm **Aditi!**
+
+🎓 Information Science Engineering Student  
+📊 Aspiring Data Analyst  
+💻 Interested in Data, Business, and Technology  
+
+🔭 I’m currently working on **Data Analytics and Web projects**  
+💬 Ask me about **SQL, Tableau, Data Analysis, or Tech projects**  
+📫 How to reach me: **LinkedIn - your-link | Email - your-email**  
+😄 Pronouns: She/Her  
+⚡ Fun fact: If I am not studying or coding, I’m probably **at the gym or creating content**
+
+---
+
+# 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/aditisrivastava14)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditisrivastava202@gmail.com)
+
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 
 <!--
 **aditisrivastava14/aditisrivastava14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
