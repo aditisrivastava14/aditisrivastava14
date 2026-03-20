@@ -8,8 +8,8 @@ Nice meeting you, I'm **Aditi!**
 📊 Data Analyst  
 💻 Interested in Data, Business, and Technology  
 
-🔭 I’m currently working on **Data Analytics and Engineering projects**  
-💬 Ask me about **SQL, Python, Tableau, Excel, Data Analysis, or Tech projects**  
+🔭 I’m currently working on **Data Engineering and Analytics projects**  
+💬 Ask me about **SQL, Snowflake, Python, Tableau, Excel, Data Analysis, or Tech projects**  
 😄 Pronouns: She/Her  
 ⚡ Fun fact: If I am not studying or coding, I’m probably **at the gym**
 
