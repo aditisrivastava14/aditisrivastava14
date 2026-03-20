@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-Nice meeting you, I'm **Aditi!**
+I'm **Aditi!**
 
 🎓 Information Science & Engineering Student  
 📊 Data Analyst  
