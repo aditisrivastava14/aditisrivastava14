@@ -5,8 +5,8 @@ Hi there 👋
 I'm **Aditi!**
 
 🎓 Information Science & Engineering Student  
-📊 Data Analyst  
-💻 Interested in Data, Business, and Technology  
+📊 Data Engineer Intern @ HDFC Securities  
+💻 Interested in Data, Business and Technology  
 
 🔭 I’m currently working on **Data Engineering and Analytics projects**  
 💬 Ask me about **SQL, Snowflake, Python, Tableau, Excel, Data Analysis, or Tech projects**  
